@@ -189,6 +189,10 @@ body {
         display: block;
     }
 
+    .container__caixa {
+        margin: 0 3em;
+    }
+
 }
 
 
